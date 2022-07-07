@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Multidimensional arrays have always been a little bit tricky for me. So when I encountered a challenge involving 2-dimensional arrays in [HackerRank](https://www.hackerrank.com/), I thought of it as a good opportunity to sharpen and scale up my problem solving skills with this kind of arrays .
+Multidimensional arrays have always been a little bit tricky for me. So when I encountered a challenge involving 2-dimensional arrays in [HackerRank](https://www.hackerrank.com/), I thought of it as a good opportunity to sharpen and scale up my problem solving skills with this kind of arrays.
 
 ### Problem
 The function to write is called `truckTour(petrolpumps)`. Imagine a series of petrol pumps and a petrol truck will have to go to each one of them in a circle. At every pump, you need to account for 2 things to make sure that the truck would be able to circle around all the pumps:
