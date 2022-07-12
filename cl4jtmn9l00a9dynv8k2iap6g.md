@@ -1,6 +1,6 @@
 ## Understanding Matrixes And Submatrixes
 
-Prior to encountering this problem, I have never worked with matrixes before. Reading through it and exploring the sample inputs, I only understood them to be an array of arrays. But as to how to move elements of one array so that they would end up in a desired position, or how to move them around several times to achieve the same, it was something really new to me.
+Prior to encountering this problem, I have never worked with matrixes before. Reading through it and exploring the sample inputs, at first I only understood them to be an array of arrays. But as to how to move elements of one array so that they would end up in a desired position, or how to move them around several times to achieve the same, it was something really new to me.
 
 So I approached the problem by first reading about matrixes and studying other people's published blogs about it. Some were really instructive and helpful. Here, I would like to present my own solution to the Hacker Rank problem entitled Flipping Matrix.
 
