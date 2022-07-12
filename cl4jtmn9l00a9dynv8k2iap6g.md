@@ -68,11 +68,11 @@ Then I went on to identify the 3 candidates against which I will compare the cur
 - 62: `matrix[matrixL - r - 1][c]`, or here specifically, `matrix[3][0]`
 - 108: `matrix[matrixL - r - 1][matrixL - c - 1]`, or here specifically, `matrix[3][3]`
 
-First, I used [Math.max](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max) to return the largest of the numbers given as input parameters, namely the current number and an initial max number set using [Number.NEGATIVE_INFINITY](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY). This is so that I have a starting input parameter to compare the first resulting number to. 
+First, I used [Math.max](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max) to return the largest of the numbers between the current integer and an initial max number set using [Number.NEGATIVE_INFINITY](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY). This is so that I have a starting input parameter to compare the first resulting number to. 
 
 Number.NEGATIVE_INFINITY can include negative numbers, so it is a wise property to use because it makes the code more scalable, as opposed to using [Number.MIN_VALUE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE), which would not account for cases wherein negative numbers are included as inputs.
 
-As the iteration move from one integer to the next in the upper-left quadrant, the candidates also change respectively, each time making a comparison and finding the greatest possible candidate.
+As the iteration moves from one integer to the next in the upper-left quadrant, the candidates also change respectively, each time making a comparison and finding the greatest possible candidate.
 
 By iterating through this process for each original integer in the upper-left quadrant, I was able to arrive at a set of numbers that would provide the maximum possible sum.
 
@@ -100,4 +100,4 @@ function flippingMatrix(matrix) {
 ``` 
 ### Key Methods & Challenges
 
-In this exercise, I was able to practise applying a more complex for loop to a problem and correctly identifying indexes using columns and rows. In addition, I found it a challenge to make code scalable, meaning not hard-coding lengths and rows and columns. With careful thought and exploration, I was able to come up with code that will work just fine regardless of the size of the sub-matrixes.
+In this exercise, I was able to practise applying a more complex for loop to a problem and correctly identifying indexes using columns and rows. In addition, I found it a challenge to make code scalable, meaning not hard-coding lengths and rows and columns. After careful thought and exploration, I was able to come up with code that works just fine regardless of the size of the sub-matrixes.
