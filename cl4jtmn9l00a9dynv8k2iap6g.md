@@ -60,9 +60,21 @@ I also needed, a variable to hold the total of the integers that would end up in
   let total = 0
 ```
 
-I, then, proceeded to iterate through the rows and columns of each sub-matrix, and each time, comparing the highest number in the sub-matrix to a maximum number. For starters, I used [Number.NEGATIVE_INFINITY](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY) so that I have something to compare the first resulting number to. Number.NEGATIVE_INFINITY can include negative numbers, so it is a wise property to use because it makes the code more scalable, as opposed to using [Number.MIN_VALUE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE), which would not account for cases wherein negative numbers are included as inputs.
+I, then, proceeded to identify first an integer currently in the upper-left quadrant. For instance, 112 here would be `matrix[r][c]`, or `matrix[0][0]`. Here, it helps to have a good grasp of the concepts of arrays in relation to zero-indexing.
 
-By iterating through this process, I was able to arrive at a set of integers that would provide the maximum possible sum.
+Then I went on to identify the 3 candidates against which I will compare the current integer. The candidates that could possibly replace 112 have the following indexes:
+
+- 119: `matrix[r][matrixL - c - 1]`, or here specifically, `matrix[0][3]`
+- 62: `matrix[matrixL - r - 1][c]`, or here specifically, `matrix[3][0]`
+- 108: `matrix[matrixL - r - 1][matrixL - c - 1]`, or here specifically, `matrix[3][3]`
+
+First, I used [Math.max](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max) to return the largest of the numbers given as input parameters, namely the current number and an initial max number set using [Number.NEGATIVE_INFINITY](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY). This is so that I have a starting input parameter to compare the first resulting number to. 
+
+Number.NEGATIVE_INFINITY can include negative numbers, so it is a wise property to use because it makes the code more scalable, as opposed to using [Number.MIN_VALUE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE), which would not account for cases wherein negative numbers are included as inputs.
+
+As the iteration move from one integer to the next in the upper-left quadrant, the candidates also change respectively, each time making a comparison and finding the greatest possible candidate.
+
+By iterating through this process for each original integer in the upper-left quadrant, I was able to arrive at a set of numbers that would provide the maximum possible sum.
 
 ```
 function flippingMatrix(matrix) {
@@ -88,4 +100,4 @@ function flippingMatrix(matrix) {
 ``` 
 ### Key Methods & Challenges
 
-In this exercise, I was able to practise applying a more complex for loop to a problem and correctly identifying positions in terms of columns and rows. In addition, I found it a challenge to make code scalable, meaning not hard-coding lengths and rows and columns. With careful thought and exploration, I was able to come up with code that will work just fine regardless of the size of the sub-matrixes.
+In this exercise, I was able to practise applying a more complex for loop to a problem and correctly identifying indexes using columns and rows. In addition, I found it a challenge to make code scalable, meaning not hard-coding lengths and rows and columns. With careful thought and exploration, I was able to come up with code that will work just fine regardless of the size of the sub-matrixes.
