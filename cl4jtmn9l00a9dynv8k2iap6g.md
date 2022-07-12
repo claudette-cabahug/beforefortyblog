@@ -86,6 +86,6 @@ function flippingMatrix(matrix) {
   return total
 }
 ``` 
-### Key Skills
+### Key Methods & Challenges
 
-In this exercise, I was able to practise applying for loop to a problem and make use of identifying positions in terms of columns and rows. In addition, I found it a challenge to make one's code scalable, meaning not hard-coding lengths and rows and columns. The code above will work just fine regardless of the number of integers in the matrixes.
+In this exercise, I was able to practise applying a more complex for loop to a problem and correctly identifying positions in terms of columns and rows. In addition, I found it a challenge to make code scalable, meaning not hard-coding lengths and rows and columns. With careful thought and exploration, I was able to come up with code that will work just fine regardless of the size of the sub-matrixes.
