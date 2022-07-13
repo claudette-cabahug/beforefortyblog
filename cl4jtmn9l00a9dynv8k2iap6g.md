@@ -32,18 +32,20 @@ You can reverse any of the rows or columns any number of times so that the sum o
 
 The reversing of rows and columns basically all boils down to this idea: each integer in the upper-left quadrant can be replaced or retained, provided they are the highest possible integer that can be placed in their position after comparing them with other candidates in the other quadrants.
 
-![flipping illustration.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1657621490598/KpXQ6NlaZ.jpg align="left")
+![flipping illustration.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1657670675283/FJBPhx0OC.jpg align="left")
 
-For instance, the candidates for 112's position would be 119, 62, and 108. Since 119 is the highest integer among them, you reverse the positions of 112 and 119. 
+To illustrate, the candidates for 42's position are 83, 98, and 114. Since 114 is the highest integer among them, you flip column 3 so 114 will be moved to row 1. 
 
-Next, the candidates for 42's position would be 83, 98, and 114. Since 114 is the highest integer among them, you reverse the column and then the row so that 114 would be able to switch position with 42.
+Notice that both 114 and 119 are now in the same row, and they are both the highest candidates for the original positions of 112 and 42.
 
-Here, 56 and 125 will have to stay in their positions because they are already the highest integers among their respective candidates, as follows:
+So to get them to the upper-left quadrant, you flip the row once again. 
+
+Here, 56 and 125 will stay in their positions because they are already the highest integers among their respective candidates, as follows:
 
 - 56: 49, 15, 43
 - 125: 56, 78, 101
 
-Thus, after all the intentional and strategic reversing is done, the integers that should be in the upper-left quadrant are 119, 114, 56, and 125, which would return the maximal sum of 414.
+Thus, after all the strategic reversing is made, the integers that will be in the upper-left quadrant are 119, 114, 56, and 125, which would return the maximal sum of 414.
 
 ### The Code
 
