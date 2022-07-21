@@ -1,6 +1,6 @@
 ## New To Tech: Valuable Advice On Preparing For Job Interviews
 
-Raise your hand if you find talking about yourself really uncomfortable. Being able to communicate well your personality, skills, and experience in behavioral and technical interviews is something that you have to harness if you want to get hired. Here are some tips that proved useful to me.
+Raise your hand if you find talking about yourself really uncomfortable. But as awkward as it might be, being able to communicate well your personality, skills, and experience in behavioral and technical interviews is something that you have to harness if you want to get hired. Here are some tips that proved useful to me.
 
 ### Continue To Learn
 
