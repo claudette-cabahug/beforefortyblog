@@ -1,4 +1,4 @@
-## Becoming A Developer: Shifting To A Tech Role Before 40
+## Becoming A Developer: Shifting To Tech Before 40
 
 As a career changer previously working in insurance and in a government agency, I felt I have heaps of transferable skills that are highly important in a tech role, particularly problem-solving, communication, organization, and people skills. Thus, I was quite positive that, like so many people who have successfully transitioned to the tech industry, I, too, can make it happen. But as to when or what it entails to actually land a job, I was completely naïve.
 
