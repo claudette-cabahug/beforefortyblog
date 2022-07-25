@@ -2,7 +2,7 @@
 
 Raise your hand if you find talking about yourself really uncomfortable. But as awkward as it might be, being able to communicate well about your values, personality, skills, and experience in behavioral and technical interviews is something that you have to zero in if you want to get hired. Here are some tips that proved useful to me.
 
-### Continue To Learn
+### Continue Learning
 
 I was aware that my skill level was very much that of a beginner, so I understood that I needed to carry on learning. In fact, I went back to basics and started over. I read and watched tutorials and brushed up on things I knew I wasn’t very at ease with yet. I also registered myself to online daily coding exercises on [HackerRank](https://www.hackerrank.com/), which was like hitting 3 birds at the same time. While I practiced and improved on my coding and problem-solving skills, I was also able to make regular commits to my GitHub account (to show my diligence and commitment) and have some materials to write about for [my technical blog on HashNode](https://beforeforty.hashnode.dev/). This has been my main weekday routine for months while I'd engross myself in personal projects on the weekends. This really helped to boost my confidence going into interviews. 
 
