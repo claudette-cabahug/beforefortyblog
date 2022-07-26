@@ -1,10 +1,10 @@
-## Becoming A Developer: Shifting To Tech Before 40
+## Shifting to Tech Before 40
 
 As a career changer previously working in insurance and in a government agency, I felt I have heaps of transferable skills that are highly important in a tech role, particularly problem-solving, communication, organization, and people skills. Thus, I was quite positive that, like so many people who have successfully transitioned to the tech industry, I, too, can make it happen. But as to when or what it entails to actually land a job, I was completely naïve.
 
 After finishing a web development bootcamp, my struggle to get hired for a tech role was real. I had to deal with plenty of application rejections and a couple of almost-hired (but they prefer a junior engineer with more experience and/or a university computer science degree). In some, I would pass the behavioral interview only to be found wanting in the technical interview. This, one after the other, really crushed my morale and motivation, and I doubted many times if my decision to change careers was actually a wise choice.
 
-### Coming To New Zealand & Career Hiatus
+### Coming to New Zealand and Career Hiatus
 
 For a good 5 years, I worked as an insurance adviser and unit manager at AXA Philippines, and it was something I really enjoyed and loved particularly because of the value I brought to my clients’ financial well-being and preparedness. But in 2018, my husband and I decided to move to NZ with our 2 kids in the hopes of giving them access to better opportunities in the future. With no work experience in my new country, I was so happy to land a role in the Department of Corrections working as an electronic monitoring bail administrator, working closely with staff from court, prison, and the police. It was practically Kiwi 101 to me while at the same time doing my bit to help keep NZ communities safe. 
 
