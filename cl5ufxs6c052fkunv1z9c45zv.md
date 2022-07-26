@@ -1,4 +1,4 @@
-## Career Changers: Valuable Advice On Preparing For Behavioral And Technical Job Interviews
+## Career Changers: Valuable Advice On Preparing For Job Interviews
 
 Raise your hand if you find talking about yourself really uncomfortable. But as awkward as it might be, being able to communicate well about one's values, personality, skills, and experience in behavioral and technical interviews is something many job seekers have to figure out in order to get hired in a developer role. Here are some tips that proved useful to me, particularly as a career changer coming from a non-technical background.
 
