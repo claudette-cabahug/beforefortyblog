@@ -10,7 +10,7 @@ I also registered myself to online daily coding exercises on [HackerRank](https:
 
 ### Build An Online Presence
 
-Being on LinkedIn and GitHub is already a given. If everybody has it, then it isn't really a differentiating factor. So aside from making sure that my accounts were up-to-date and conveyed the promising developer recruiters should see, I figured I could be noticed more by creating a blog where I talk about the things I have been learning. Being able to effectively communicate and document one's approach to a problem is a valuable skill to have in the tech industry, so showcasing that I possess this, or that I am working towards it, through my blog, was a very good exercise. Plus, it is something interesting to talk about during interviews.
+Being on LinkedIn and GitHub is already a given. If everybody has it, then it isn't really a differentiating factor. So aside from making sure that my accounts were up-to-date and conveyed the promising developer recruiters are looking for, I figured I could be noticed more by creating a blog where I talk about the things I have been learning. Being able to effectively communicate and document one's approach to a problem is a valuable skill to have in the tech industry, so showcasing that I possess this, or that I am working towards it, through my blog, was a very good exercise. Plus, it is something interesting to talk about during interviews.
 
 ### Be Bold And Persevere
 
