@@ -1,4 +1,4 @@
-## Career Change: Practical Advice On Preparing For Job Interviews
+## Practical Advice for Career Changers on Preparing for Job Interviews in Tech
 
 Raise your hand if you find talking about yourself really uncomfortable. But as awkward as it might be, being able to communicate well about one's values, personality, skills, and experience in behavioral and technical interviews is something many job seekers have to figure out in order to get hired in a developer role. Here are some tips that proved useful to me, particularly as a career changer coming from a non-technical background.
 
@@ -8,11 +8,11 @@ I was aware that my skill level was very much that of a beginner, having learned
 
 I also registered myself to online daily coding exercises on [HackerRank](https://www.hackerrank.com/), which was like hitting 3 birds at the same time. One, I got better at my coding and problem-solving skills. Two, I was able to make my GitHub account more career-forward with regular commits. And three, I got to write about my solutions to the coding exercises on my blog. This had been my main weekday routine for months while I'd engross myself in personal projects on the weekends. These activities really helped to boost my confidence going into interviews and made me feel less doubtful of myself and what I was capable of, a symptom of what's otherwise called [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). 
 
-### Build An Online Presence
+### Build an Online Presence
 
 Being on LinkedIn and GitHub is already a given. If everybody has it, then it isn't really a differentiating factor. So aside from making sure that my accounts were up-to-date and conveyed the promising developer recruiters are looking for, I figured I could be noticed more by creating a [blog on HashNode](https://beforeforty.hashnode.dev/) where I talk about the things I have been learning. Being able to effectively communicate and document one's approach to a problem is a valuable skill to have in the tech industry, so showcasing that I possess this, or that I am working towards it, through my blog, was a very helpful exercise for me. Plus, it is something interesting to talk about during interviews.
 
-### Be Bold And Persevere
+### Be Bold and Persevere
 
 Rejections have a way of crushing us so we do not feel motivated anymore to pursue our goals. However, responding in exactly the opposite way is the challenge. I used to spend a day or two feeling bad about being rejected and pondering on what I did wrong or should have done differently. But after that, I made sure to get back on the saddle and send out an application. In fact, some of the jobs I applied for I didn’t have most of the competencies required. I think it's natural to hesitate when knowledge or experience in technologies we haven’t tinkered with before are needed, but really there is some benefit to just giving it a go. *Risk it for the biscuit*, as one of my friends used to say, because how else would you know if you're suited for the role, or the employer sees potential in you, if you do not try. When you take risks despite the likely possibility of your application being declined, your efforts are never wasted. Every experience you get is a learning step for the next one.
 
@@ -24,13 +24,13 @@ Since coming to New Zealand, I have been presented with so many opportunities I 
 
 With a bit of luck, while I was in the AWS program I also got an invitation to apply for a solutions specialist role through [Summer of Tech](https://www.summeroftech.co.nz/), an internship program helping NZ companies connect with technology students in engineering, design, computer science or any other tech-related field. The role was a great opportunity to pursue the path of a solutions architect. Since I was coincidentally in the process of getting certified as an AWS Cloud Practitioner, there seemed to be an alignment between the role and my learning efforts then. So I interviewed for it, and I was seriously entertaining the possibility of taking a different path to development. But as chance would have it, I received a better offer to work as a grad engineer at one of NZ's leading cloud-based accounting software companies. In the final research and presentation, which was the last part of the hiring process there, I was able to make use of my new cloud knowledge to show my understanding of technology, and I think it really helped me make an impression.
 
-### Prepare For The Expected And The Unexpected
+### Prepare for the Expected and the Unexpected
 
 Ages ago back in university, I competed in extemporaneous speaking, and I will never forget how my coach emphasized on preparation. He used to say that with good preparation, the battle is won before the fight. Although he made it sound like it was his own words and not from Sun Tzu’s *The Art of War*, the point is that this same principle holds true when it comes to getting ready for job interviews. I made sure to do prior research about the organization, their values and how they align with mine, the role, feedback from applicants about the recruitment process (there's heaps on [Glassdoor](https://www.glassdoor.co.nz/)), among others. Also, common questions such as *what will you bring into the role* and *why will you be a good fit for the organization* are just some of the things you should prepare answers for. If you cannot give coherent responses to these expected, basic questions, it can sometimes be a bit of a hurdle redeeming yourself in the same interview. I believe going into interviews with enough preparation will help you express yourself in a clear and organized manner, and it's surely appreciated by recruiters interviewing many candidates for a single role.
 
 Of course, you will not be able to anticipate all the questions. But as you gain more experience interviewing for different roles at different companies, you will gain more insight as to what questions will likely be asked. I had experienced many times feeling that the interviewer was not really prepared with their questions. It was as if they were only pulled from whatever they were doing that day and quickly perused my resume to come up with last-minute questions. So, at the very least, be ready to expound more on the skills, qualifications, and experience you have written on your resume.
 
-### Have A Mentor
+### Have a Mentor
 
 Certainly, there is almost nothing these days that you cannot just google or find a resource on YouTube. But if you can enlist the help of a mentor, I would highly suggest doing so. They do not have to be someone who can give you feedback on code-specific matters, although lucky you if you have access to one. At the very least, a mentor is someone you can talk to about your plans, bounce ideas with, and one who can possibly share valuable advice on what steps to take or roadmap to follow so you will achieve your goals. Once in a while, it would be good to catch up with them to assess your progress and what strategic actions you can do next. In fact, your mentor might be able to connect you with individuals similarly situated to you when they started their journey in tech.
 
