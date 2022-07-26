@@ -1,8 +1,8 @@
-## Practical Advice for Career Changers on Preparing for Job Interviews in Tech
+## Practical Advice for Tech Newbies on Preparing for Job Interviews
 
 Raise your hand if you find talking about yourself really uncomfortable. But as awkward as it might be, being able to communicate well about one's values, personality, skills, and experience in behavioral and technical interviews is something many job seekers have to figure out in order to get hired in a developer role. Here are some tips that proved useful to me, particularly as a career changer coming from a non-technical background.
 
-### Continue Learning
+### Keep Learning
 
 I was aware that my skill level was very much that of a beginner, having learned how to code only months ago, so I understood that I still had so much to learn -- and fast. In fact, after finishing a [web development bootcamp](https://beforeforty.hashnode.dev/becoming-a-developer-shifting-to-tech-before-40), I went back to basics and started over. I read and watched tutorials and brushed up on things I didn't quite fully grasp the first time. I remember the many *aha *moments I had while reviewing the course, and it reinforced many concepts in my head.
 
