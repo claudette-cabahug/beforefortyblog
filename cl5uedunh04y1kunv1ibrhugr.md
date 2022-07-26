@@ -16,7 +16,7 @@ After a year since I resumed work at the Department of Corrections, doors opened
 
 In the first month, I learned foundational concepts before diving right into coding. Not long after, I was already building web applications with my teammates and consistently picking up new technologies each week for the next 3 to 4 months. At that time, it had been over 13 years since I last finished university. I felt rusty, but it was compensated by the stimulating academic environment I found myself in once more and being around a bright mix of students and instructors. The training was everything they said it was going to be – fast-paced, demanding, yet supportive. 
 
-Sounds cliché, but that's not even half the story.
+Sounds cliché, but that's only half the story.
 
 To be honest, I wrestled with a lot in those months. First of all, the schedule was tough for me. Although there was an option to do it online, I made myself present onsite each day because I knew that being around people and interacting with my cohort in person was something extra I wouldn’t get so much otherwise. Being able to work effectively with others is a valuable skill in the actual workplace, and I understood that I needed the human experience. But this meant leaving home early in the morning and coming home late in the day. In those months, my husband covered school drop-off and pick-up, dinner preparation, bedtime storytelling, and so much more. If I didn’t have the level of support I had, it would have been nearly impossible for me to finish the course. 
 
